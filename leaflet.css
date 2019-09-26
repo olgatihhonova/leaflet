@@ -251,6 +251,7 @@
 .leaflet-container a {
 	color: #000;
 	font-style: normal;
+	border-bottom: none !important;
 	}
 .leaflet-container a.leaflet-active {
 	outline: 2px solid orange;
