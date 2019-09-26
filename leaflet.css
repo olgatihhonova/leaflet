@@ -490,8 +490,8 @@
 	pointer-events: none;
 	}
 .leaflet-popup-tip {
-	width: 14px;
-	height: 14px;
+	width: 4px;
+	height: 4px;
 	padding: 1px;
 
 	margin: -10px auto 0;
