@@ -251,6 +251,7 @@
 .leaflet-container a {
 	color: #000;
 	font-style: normal;
+	
 	}
 .leaflet-container a.leaflet-active {
 	outline: 2px solid orange;
@@ -489,8 +490,8 @@
 	pointer-events: none;
 	}
 .leaflet-popup-tip {
-	width: 17px;
-	height: 17px;
+	width: 14px;
+	height: 14px;
 	padding: 1px;
 
 	margin: -10px auto 0;
