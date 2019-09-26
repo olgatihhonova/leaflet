@@ -251,7 +251,6 @@
 .leaflet-container a {
 	color: #000;
 	font-style: normal;
-	border-bottom: none;
 	}
 .leaflet-container a.leaflet-active {
 	outline: 2px solid orange;
@@ -277,7 +276,7 @@
 .leaflet-bar a,
 .leaflet-bar a:hover {
 	background-color: #fff;
-	border-bottom: 1px solid #ccc;
+	border-bottom: none;
 	width: 26px;
 	height: 26px;
 	line-height: 26px;
