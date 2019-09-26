@@ -481,17 +481,17 @@
 	margin: 18px 0;
 	}
 .leaflet-popup-tip-container {
-	width: 40px;
-	height: 20px;
+	width: 30px;
+	height: 15px;
 	position: absolute;
 	left: 50%;
-	margin-left: -20px;
+	margin-left: -15px;
 	overflow: hidden;
 	pointer-events: none;
 	}
 .leaflet-popup-tip {
-	width: 4px;
-	height: 4px;
+	width: 17px;
+	height: 17px;
 	padding: 1px;
 
 	margin: -10px auto 0;
