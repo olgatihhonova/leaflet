@@ -251,7 +251,6 @@
 .leaflet-container a {
 	color: #000;
 	font-style: normal;
-	text-align: center;
 	}
 .leaflet-container a.leaflet-active {
 	outline: 2px solid orange;
@@ -266,6 +265,7 @@
 .leaflet-container {
 	font: 14px/1.5 Lustria, "Helvetica Neue", Arial, Helvetica, sans-serif;
 	border-bottom: none !important;
+	text-align: center;
 	}
 
 
@@ -477,6 +477,7 @@
 .leaflet-popup-content {
 	margin: 13px 19px;
 	line-height: 1.4;
+	width: 100px !important;
 	}
 .leaflet-popup-content p {
 	margin: 18px 0;
